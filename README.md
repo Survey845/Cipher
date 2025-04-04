@@ -4,7 +4,7 @@
 An android application using Java, C++ and JNI, which converts a given text into its Caeser cipher equivalent. To learn more about about Caeser Cipher, [click here](https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/).
 
 ## Features
-- A caeser cipher shift of 3 positions for alphabets (non-alphabetic characters remain the same)
+- A Caeser cipher shift of 3 positions for alphabets (non-alphabetic characters remain the same)
 - Input and Result text boxes
 - Encrypt and Decrypt buttons
 - Responsive and error free
@@ -27,4 +27,4 @@ git clone https://github.com/Survey845/Cipher.git
 - Backend handling the UI written in Java
 - Caese cipher logic written in C++
 - Java Native Interface is used to link the C++ logic with the Java backend
-- CMake is used to buld the native-lib which holds the C++ logic.
+- CMake is used to build the native-lib which holds the C++ logic.
